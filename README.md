@@ -7,9 +7,9 @@ A project based on React(https://reactjs.org/) for the Vaccation and Abscense Pl
 Clone this repo, import the project to your preferred editor, run the application via the terminal by using the command: npm start
 
 ## Todo
-- Add react-router for routing URL pages in the application.
 - Add redux for state management.
 - Add the admin page.
 - Add a diagram overview at the admin page.
-- Update the style with preferred colors, etc...
-- Add the ÅF "ONE" bar
+- Update the styles with preferred colors, etc...
+- Add the ÅF "ONE" bar and required connection
+- Add proper error handling for different scenarios
